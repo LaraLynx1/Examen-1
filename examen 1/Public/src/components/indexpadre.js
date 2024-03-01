@@ -1,0 +1,1 @@
+export {default as Crearproducto} from "./crearproducto/crearproducto.js"
